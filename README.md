@@ -9,6 +9,8 @@ This is a MERN Stack-based collaborative to-do list web application that allows 
       - Create .env file on the backend folder with following details:
         
             - PORT = 3000
+   
+            - MONGODB_URI = your mongo url
         
             - FRONTEND_URL = 'http://localhost:5173'
         
