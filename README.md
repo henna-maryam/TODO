@@ -19,7 +19,7 @@ This is a MERN Stack-based collaborative to-do list web application that allows 
   - ## Frontend
       - Navigate to frontend : cd frontend
       - Install dependencies : npm i
-      - Create .env file on the backend folder with following details:
+      - Create .env file on the frontend folder with following details:
         
             - VITE_SIGNUP_URL = 'http://localhost:3000/signup'
         
