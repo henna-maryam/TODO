@@ -10,11 +10,9 @@ This is a MERN Stack-based collaborative to-do list web application that allows 
         
             - PORT = 3000
         
-            - MONGODB_URI = 'mongodb+srv://hennamaryam02:E4UpgjjXjQHdygK2@cluster0.lt499j0.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0'
-        
             - FRONTEND_URL = 'http://localhost:5173'
         
-            - JWT_SECRET = 'ertyjughfdwe34t5hyg'   
+            - JWT_SECRET = you_secret_key   
       - Start the server : npm start
   - ## Frontend
       - Navigate to frontend : cd frontend
