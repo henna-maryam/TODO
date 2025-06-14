@@ -7,6 +7,7 @@ This is a MERN Stack-based collaborative to-do list web application that allows 
       - Navigate to server : cd backend
       - Install dependencies : npm i
       - Create .env file on the backend folder with following details:
+        
             - PORT = 3000
         
             - MONGODB_URI = 'mongodb+srv://hennamaryam02:E4UpgjjXjQHdygK2@cluster0.lt499j0.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0'
@@ -19,6 +20,7 @@ This is a MERN Stack-based collaborative to-do list web application that allows 
       - Navigate to frontend : cd frontend
       - Install dependencies : npm i
       - Create .env file on the backend folder with following details:
+        
             - VITE_SIGNUP_URL = 'http://localhost:3000/signup'
         
             - VITE_LOGIN_URL = 'http://localhost:3000/login'
