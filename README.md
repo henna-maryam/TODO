@@ -31,8 +31,6 @@ This is a MERN Stack-based collaborative to-do list web application that allows 
         
             - VITE_USERS_URL='http://localhost:3000/'
       - Run the page : npm run dev
-  - You can either SignUp and then Login or use
-        email: test1@gmail.com / test2@gmail.com
-        password: test1 / test2
+  - You can SignUp and then Login 
   - Use 2 pages with different users to see the live updates on
     
